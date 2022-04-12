@@ -8,8 +8,7 @@
 
 int main(void)
 {
-	int n = 0;
-	char ermias = "_putchar";
+	char ermias[] = "_putchar";
 
 	int c;
 	for (c = 0; c < 8; c++)
