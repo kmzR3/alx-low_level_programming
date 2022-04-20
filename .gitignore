@@ -1,1 +1,5 @@
 0x00-hello_world/a.out
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
